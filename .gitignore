@@ -5,4 +5,3 @@ README.md
 build/side.txt
 
 # Игнорировать все файлы с расширением .doc
-*.doc
